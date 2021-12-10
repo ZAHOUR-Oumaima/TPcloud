@@ -76,6 +76,7 @@ https://www.tooplate.com/view/2115-marvel
                         <small class="small-text">Welcome to <span class="mobile-block">my portfolio website!</span></small>
                         <h1 class="animated animated-text">
                             <span class="mr-2">Hey folks, I'm</span>
+                          <p>Oumaima ZAHOUR <p>
                                 <div class="animated-info">
                                     <span class="animated-item">Marvel Sann</span>
                                     <span class="animated-item">Web Designer</span>
